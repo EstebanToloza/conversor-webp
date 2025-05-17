@@ -33,7 +33,7 @@ Un script simple de Node.js para convertir imágenes (JPG, PNG, GIF, etc.) al fo
 
 2. Ejecuta el script:
    ```
-   node towebp.js
+   npm start
    ```
 
 3. Las imágenes convertidas se encontrarán en la carpeta `webp/`
