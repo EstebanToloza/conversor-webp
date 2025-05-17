@@ -1,0 +1,24 @@
+{
+    "name": "conversor-webp",
+    "version": "1.0.0",
+    "description": "Conversor de imágenes a formato WebP",
+    "main": "towebp.js",
+    "scripts": {
+        "start": "node towebp.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "webp",
+        "image",
+        "converter",
+        "optimization"
+    ],
+    "author": "Esteban Toloza",
+    "license": "MIT",
+    "dependencies": {
+        "sharp": "^0.32.1"
+    },
+    "engines": {
+        "node": ">=12.0.0"
+    }
+}
